@@ -1,4 +1,4 @@
-<h1 align="center">RedTiger Multi-Tool 🐯</h1> 
+<h1 align="center">8x Tools 🐯</h1> 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/fluzyteck/RedTiger-Tools?label=Version&color=a80505">
   <img src="https://img.shields.io/github/stars/fluzyteck/RedTiger-tools?style=flat&label=Stars&color=a80505">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
 
 </p>
-<img src="Img/RedTiger.png" wdth="9999">
+
 
 <h2>📜・Description:</h2>
 <p>
@@ -74,7 +74,7 @@ Install with GitHub:
   3) Extract the file "RedTiger-main.zip" to your desktop,
   4) Launch "Setup.bat".
 ```
-Or install the Red Tiger tool <a href="https://github.com/fluzyteck/RedTiger/archive/main.zip
+Or install the Red Tiger tool <a href="[[[https://gi
 ">Here</a> and launch "Setup.bat".
 </p>
 
